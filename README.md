@@ -1,4 +1,4 @@
-# Project01
+# Project01: Mineral Deposits
 
 # Data Collection: 
 I did not use web-crawling or scraping. I found the dataset from a government site. At this point my programming skill are juvenile but in the future I would like to put something together with crawling or scraping to make my own dataset since this is what you do in the "real world" if you have a question you want to answer. 
