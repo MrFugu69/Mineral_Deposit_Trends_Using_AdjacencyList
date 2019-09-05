@@ -10,10 +10,13 @@ The main dataset came from the [USGS](https://mrdata.usgs.gov/mrds/), while othe
 # Feature Engineering:
 Will include getting rid of Regex, empty/null values and symbols.
 
+# Dependencies:
+`pip install shapely` | `pip install pdf2image`
+
 # Visualization: 
 Matplotlib and Bokeh
 
-# Idea of what my data look like for some of the attributes:
+# Idea of what some of the attributes are:
 
 | Site Name                | Latitude     | Longitude      | Country            | State      | Commodity_01     | Commodity_02     | Commodity_03     | Ore                                   | Gangue                         | Hrock type     |
 |----------------------    |----------    |------------    |----------------    |--------    |--------------    |--------------    |--------------    |-----------------------------------    |----------------------------    |------------    |
