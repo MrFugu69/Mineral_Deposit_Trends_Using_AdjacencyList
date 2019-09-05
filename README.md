@@ -4,29 +4,16 @@ Physical Geology plays an important role in Mining/Exploration work, indicating 
 # Data Collection: 
 The main dataset came from the [USGS](https://mrdata.usgs.gov/mrds/), while other aspects of data collection used web-scraping. 
 
-1.) 
-# Sole Contributor: Logan Register
-
-2.) 
-# Data Cleanup: 
-about 2-2.5 weeks from Jan. 25th
-
-3.) 
 # Feature Engineering:
 Will include getting rid of Regex, empty/null values and symbols.
 
-4.)  #
 # Transformation
 I will need to disregard some of the columns of data because it is non-essential and I don't know what it means. 
 I have to figure out what attributes I would like to collect and determine if I need to create a long format or just keep it 
 wide. At a later point I may need to standardize these data for computation "log-transform,linearization, etc".
 
-# Statistics
-I am not sure what testing I will do, I may think about clustering, but I am not entirely sure because I have not concretely decided what I want to learn about these data. 
-
 # Visualization: 
-I can use seaborn, matplotlib or bokeh: really i am not sure. It will depend if I do rendering with html or not
-
+Matplotlib and Bokeh
 
 # Idea of what my data look like for some of the attributes:
 
