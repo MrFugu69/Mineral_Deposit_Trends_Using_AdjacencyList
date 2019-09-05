@@ -1,8 +1,8 @@
 # Project01: 
-Physical Geology plays an important role in Mining/Exploration work, indicating trends within local geography. Such trends are what Data Scientist would like to exploit. In this work we will investigate trends in mineralization establishing that minerals/metals can exhibit secondary minerals which may have economic importance. Typically, this has a two fold benefit.
+Physical Geology plays an important role in Mining/Exploration work, indicating trends within local geography. Such trends are what Data Scientist would like to exploit. In this work I will investigate trends in mineralization establishing that minerals/metals can exhibit secondary minerals which may have economic importance. 
 
 # Data Collection: 
-I did not use web-crawling or scraping. I found the dataset from a government site. At this point my programming skill are juvenile but in the future I would like to put something together with crawling or scraping to make my own dataset since this is what you do in the "real world" if you have a question you want to answer. 
+The main dataset came from the [USGS](https://mrdata.usgs.gov/mrds/), while other aspects of data collection used web-scraping. 
 
 1.) 
 # Sole Contributor: Logan Register
