@@ -1,8 +1,8 @@
 # Project01 Overview: 
-Physical Geology plays an important role in *Mining/Exploration* which indicate trends within local geography; *Data Scientists* would like to exploit trends and this is why I chose this exercise. In this work I will investigate trends in mineralization with the use of `Adjacency Lists` from *Graph Theory* <sup>[1](https://en.wikipedia.org/wiki/Adjacency_list#targetText=In%20graph%20theory%20and%20computer,for%20use%20in%20computer%20programs) </sup>. 
+Physical Geology plays an important role in *Mining/Exploration* which indicate trends within local geography; *Data Scientists* would like to exploit trends and this is why I chose this exercise. In this work I will investigate trends in mineralization with the use of `Adjacency Lists` from *Graph Theory* <sup>[1](https://en.wikipedia.org/wiki/Adjacency_list#targetText=In%20graph%20theory%20and%20computer,for%20use%20in%20computer%20programs) </sup>.
 
 # Purpose:
-During exploration, indicators of local geology have a strong influence on perceived outlook of the area. This experiment provides a look at how graph theory can expand to `mining and exploration`. This will aide in providing insight into the primary and secondary minerals found during exploration.  
+During exploration, indicators of local geology have a strong influence on perceived outlook of the area. This experiment provides a look at how `graph theory` can expand to `mining and exploration`. This will provide insight into the primary and secondary minerals found during exploration. While a main mineral/metal of interest will be desired; it is important to take into consideration other economically viable assets which may be available at these sites. 
 
 # Data Collection: 
 The main dataset came from the [USGS](https://mrdata.usgs.gov/mrds/), while other aspects of data collection used web-scraping. 
