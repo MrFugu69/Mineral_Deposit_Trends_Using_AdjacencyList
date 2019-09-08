@@ -7,11 +7,8 @@ When searching for minerals, metals or fossil fuels indicators of local geology 
 # Data Collection: 
 The main dataset came from the [USGS](https://mrdata.usgs.gov/mrds/), while other aspects of data collection used web-scraping. 
 
-# Feature Engineering:
-Will include getting rid of Regex, empty/null values and symbols.
-
 # Dependencies:
-`pip install shapely` | `pip install pdf2image`
+`pip install shapely` | `pip install pdf2image` | `pip install bokeh`
 
 # Visualization: 
 Matplotlib and Bokeh
