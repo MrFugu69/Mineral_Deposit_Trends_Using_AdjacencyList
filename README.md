@@ -1,8 +1,10 @@
 # Project01: 
-Physical Geology plays an important role in *Mining/Exploration* which indicate trends within local geography; *Data Scientists* would like to exploit trends and this is why I chose this exercise. In this work I will investigate trends in mineralization. During exploration: primary and secondary mineralization can be found and may have viable economic impact. 
+Physical Geology plays an important role in *Mining/Exploration* which indicate trends within local geography; *Data Scientists* would like to exploit trends and this is why I chose this exercise. In this work I will investigate trends in mineralization with the use of `Adjacency Lists` from *Graph Theory* <sup>[1](https://en.wikipedia.org/wiki/Adjacency_list#targetText=In%20graph%20theory%20and%20computer,for%20use%20in%20computer%20programs) </sup>. 
+
+During exploration: primary and secondary mineralization can be found and may have viable economic impact. 
 
 # Purpose:
-When searching for minerals, metals or fossil fuels indicators of local geology have a strong influence on perceived outlook of the area. You have to act like a detective and evaluate the land for specific characteristics and rock formations. This is a valuable tool which can be exploited with data analytics. From an introductory course in Physical Geology, my professor explained that specific rock or mineral types are found when looking for precious metals, minerals or fossil fuels. This was very insightful on many levels; I decided now to prove that if per se I was interested in mining a specific element, what other elements may I find and are any of them economically important. 
+When searching for minerals, metals or fossil fuels; indicators of local geology have a strong influence on perceived outlook of the area. You have to act like a detective and evaluate the land for specific characteristics and rock formations. This is a valuable tool which can be exploited with data analytics. From an introductory course in Physical Geology, my professor explained that specific rock or mineral types are found when looking for precious metals, minerals or fossil fuels. This was very insightful on many levels; I decided now to prove that if per se I was interested in mining a specific element, what other elements may I find and are any of them economically important. 
 
 # Data Collection: 
 The main dataset came from the [USGS](https://mrdata.usgs.gov/mrds/), while other aspects of data collection used web-scraping. 
