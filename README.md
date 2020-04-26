@@ -1,4 +1,4 @@
-# Project01 Overview: 
+# Project Overview: 
 Physical Geology plays an important role in *Mining/Exploration* which indicate trends within local geography; *Data Scientists* would like to exploit trends and this is why I chose this exercise. In this work I will investigate trends in mineralization with the use of `Adjacency Lists` from *Graph Theory* <sup>[1](https://en.wikipedia.org/wiki/Adjacency_list#targetText=In%20graph%20theory%20and%20computer,for%20use%20in%20computer%20programs) </sup>.
 
 # Purpose:
